@@ -1,3 +1,3 @@
 # hello-world
-just the start
+just the beginning
 
